@@ -1,0 +1,16 @@
+{
+    "name": "com.miguel_ferreira.editor_gui_split_view.Tools.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6660e9c1e9a53e24995d2319770f1919"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
